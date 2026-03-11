@@ -1,7 +1,7 @@
-Python for Data Analysis - CMU Graduate Work
+# Python for Data Analysis - CMU Graduate Work
 
-Jupyter notebook portfolio from Carnegie Mellon University's graduate 'Python2' Course
-The curriculum applied primarily to data analysis and interacting with web APIs
+## Jupyter notebook portfolio from Carnegie Mellon University's graduate 'Python2' Course
+## The curriculum applied primarily to data analysis and interacting with web APIs
 
 *Week 1 & 2 - Data Analysis*
 Security log and dataset analysis using pandas, numpy, and matplotlib.
